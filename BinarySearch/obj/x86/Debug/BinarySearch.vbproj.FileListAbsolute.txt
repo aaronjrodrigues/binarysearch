@@ -1,0 +1,8 @@
+C:\Aaron\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Aaron\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Aaron\BinarySearch\BinarySearch\bin\Debug\BinarySearch.xml
+C:\Aaron\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.Resources.resources
+C:\Aaron\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.vbproj.GenerateResource.Cache
+C:\Aaron\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.exe
+C:\Aaron\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.xml
+C:\Aaron\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.pdb
